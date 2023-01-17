@@ -1,0 +1,15 @@
+.cart__item{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 50px 10px;
+}
+.cart__item img {
+	width: 15%;
+}
+.remove__cart{
+	color: red;
+	font-size: 36px;
+	font-weight: 700;
+	cursor: pointer;
+}

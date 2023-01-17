@@ -1,0 +1,9 @@
+.history__item{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	margin-bottom: 24px;
+}
+.history__item img{
+	width: 15%;
+}
